@@ -1,4 +1,4 @@
-# Week 1 - Student App
+# Week 1 - React Hands-on
 
 ## Exercise
 
