@@ -3,3 +3,6 @@
 ## Week-1
 - StudentApp
 - ScoreCalculatorApp
+- CohortTracker
+- TrainersApp
+- BlogApp
