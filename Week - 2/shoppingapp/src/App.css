@@ -1,0 +1,35 @@
+.mydiv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Updated to target h1, h2, or h3 depending on what you used */
+h1, h2, h3 {
+    color: green;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: auto;
+    /* 1. Removed border-collapse to allow the classic double-border look */
+    /* 2. Added a solid green border around the outer table container */
+    border: 2px solid green; 
+    padding: 5px;
+}
+
+th, td {
+    padding: 8px 15px;
+    /* 3. Changed color from lightgreen to green to match the image */
+    color: green; 
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    /* 4. Added borders to the internal cells */
+    border: 1px solid green;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
