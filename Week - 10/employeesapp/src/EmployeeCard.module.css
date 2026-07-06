@@ -1,0 +1,29 @@
+.Card {
+  display: inline-block;
+  width: 25%;
+  border: 1px solid #999;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+/* Reset button styling to look like a clean link */
+.btnLink {
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  display: inline-block;
+  margin: 3px 5px;
+  padding: 5px 5px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.light {
+  color: blue;
+}
+
+.dark {
+  color: red;
+}
