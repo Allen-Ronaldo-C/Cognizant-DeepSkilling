@@ -39,6 +39,10 @@ This repository contains my solutions for the **Cognizant DeepSkilling Program (
 - BlogApp
 - CohortTracker
 - TrainersApp
+<<<<<<< HEAD
+=======
+- BlogApp
+>>>>>>> 05bf75c9b0ca220b7c3d553d46d9e56c0e2aeae2
 
 #### Week 2
 - CounterApp
@@ -47,6 +51,7 @@ This repository contains my solutions for the **Cognizant DeepSkilling Program (
 - OfficeSpaceRentalApp
 - ShoppingApp
 
+<<<<<<< HEAD
 #### Additional React Hands-ons
 - BloggerApp
 - TicketBookingApp
@@ -113,3 +118,5 @@ B.E. Electronics and Communication Engineering (ECE)
 RMK College of Engineering and Technology
 
 GitHub: https://github.com/Allen-Ronaldo-C
+=======
+>>>>>>> 05bf75c9b0ca220b7c3d553d46d9e56c0e2aeae2
