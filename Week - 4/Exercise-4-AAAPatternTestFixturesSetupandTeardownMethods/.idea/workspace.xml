@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe4a1d29-2a9d-4996-9abd-28b6b7b34e6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise-1-SettingUpJUnit/src/test/java/com/cognizant/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-2-WritingBasicJUnitTests/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-2-WritingBasicJUnitTests/src/test/java/com/cognizant/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-3-AssertionsinJUnit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-3-AssertionsinJUnit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-3-AssertionsinJUnit/src/test/java/com/cognizant/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cognizant/CalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000009098669" />
+      <entry key="S5" value="1.0009016102717414" />
+      <entry key="S10" value="1.0433890423974257" />
+      <entry key="S30" value="1.6563277790070896" />
+      <entry key="S60" value="2.3733121478919763" />
+      <entry key="M2" value="3.017503377382327" />
+      <entry key="M5" value="3.555831281173755" />
+      <entry key="M10" value="3.768298788370471" />
+      <entry key="M15" value="3.843305917361567" />
+      <entry key="M30" value="3.920516331036052" />
+      <entry key="H1" value="3.959969543800819" />
+      <entry key="H2" value="3.979912050196754" />
+      <entry key="H4" value="3.9899377733706074" />
+      <entry key="D1" value="3.9983204211901677" />
+      <entry key="W1" value="3.99975999786112" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0022591566091900135" />
+      <entry key="MS500" value="0.2956577500610357" />
+      <entry key="S2" value="0.7373901333713381" />
+      <entry key="S5" value="0.8861765563164501" />
+      <entry key="S10" value="0.9842424027226361" />
+      <entry key="S30" value="1.6360302153643005" />
+      <entry key="S60" value="2.3630071374316683" />
+      <entry key="M2" value="3.012290978784188" />
+      <entry key="M5" value="3.5537275445145515" />
+      <entry key="M10" value="3.7672433130401983" />
+      <entry key="M15" value="3.84260142531023" />
+      <entry key="M30" value="3.9201636534979074" />
+      <entry key="H1" value="3.9597930951149256" />
+      <entry key="H2" value="3.979823798115129" />
+      <entry key="H4" value="3.989893640362397" />
+      <entry key="D1" value="3.998313064718314" />
+      <entry key="W1" value="3.999758946912766" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3G8WYUv488sUmJrklCT5Na0MGO9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculatorTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/allen/OneDrive/Documents/Cognizant/React/Week - 4/Exercise-4-AAAPatternTestFixturesSetupandTeardownMethods/src/main/java/com/cognizant/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe4a1d29-2a9d-4996-9abd-28b6b7b34e6d" name="Changes" comment="" />
+      <created>1783353729822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783353729822</updated>
+      <workItem from="1783353733858" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cognizant/Calculator.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
