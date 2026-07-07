@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="440d3159-aac1-4983-9375-fb44e8eb1f3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise-1-MockingAndStubbing/src/main/java/com/cognizant/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-1-MockingAndStubbing/src/main/java/com/cognizant/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-1-MockingAndStubbing/src/test/java/com/cognizant/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cognizant/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cognizant/MyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cognizant/MyServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week - 4/Exercise-4-AAAPatternTestFixturesSetupandTeardownMethods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week - 4/Exercise-4-AAAPatternTestFixturesSetupandTeardownMethods/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="6.317181174865323E-10" />
+      <entry key="MS500" value="0.014458042563070856" />
+      <entry key="S2" value="0.3696107441872131" />
+      <entry key="S5" value="1.0065130329199254" />
+      <entry key="S10" value="2.1112176096371202" />
+      <entry key="S30" value="6.700536020742858" />
+      <entry key="S60" value="12.617545544583544" />
+      <entry key="M2" value="20.81934033113899" />
+      <entry key="M5" value="30.872230216162176" />
+      <entry key="M10" value="35.84194791118172" />
+      <entry key="M15" value="37.74802700665678" />
+      <entry key="M30" value="39.79666215620848" />
+      <entry key="H1" value="40.87819201729756" />
+      <entry key="H2" value="41.43395722358167" />
+      <entry key="H4" value="41.715680663044445" />
+      <entry key="D1" value="41.952432036528855" />
+      <entry key="W1" value="41.993200119116715" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000000000044" />
+      <entry key="MS500" value="1.0013483367208493" />
+      <entry key="S2" value="1.243570117463837" />
+      <entry key="S5" value="1.9145773455419994" />
+      <entry key="S10" value="2.805603706807197" />
+      <entry key="S30" value="5.3043064668800906" />
+      <entry key="S60" value="7.929088968772318" />
+      <entry key="M2" value="11.04771324873279" />
+      <entry key="M5" value="14.475566401304295" />
+      <entry key="M10" value="16.076437156319017" />
+      <entry key="M15" value="16.678260029446896" />
+      <entry key="M30" value="17.318482245740878" />
+      <entry key="H1" value="17.65388917473366" />
+      <entry key="H2" value="17.82558202694037" />
+      <entry key="H4" value="17.91244724869068" />
+      <entry key="D1" value="17.98535986195922" />
+      <entry key="W1" value="17.997907372376268" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0014904875159263491" />
+      <entry key="MS500" value="0.27840790695174644" />
+      <entry key="S2" value="1.1912893763445833" />
+      <entry key="S5" value="2.5483395847081827" />
+      <entry key="S10" value="4.546834695355562" />
+      <entry key="S30" value="11.668557426321833" />
+      <entry key="S60" value="20.25290720620298" />
+      <entry key="M2" value="31.639847142810083" />
+      <entry key="M5" value="45.21979379525015" />
+      <entry key="M10" value="51.84548658030854" />
+      <entry key="M15" value="54.37543746202519" />
+      <entry key="M30" value="57.088516789197925" />
+      <entry key="H1" value="58.518451180001115" />
+      <entry key="H2" value="59.252643166647324" />
+      <entry key="H4" value="59.62465934124212" />
+      <entry key="D1" value="59.937210929952485" />
+      <entry key="W1" value="59.99102442532543" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GBD94V8fFwD3kSN5mIBfnvZjvt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MyServicesTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440d3159-aac1-4983-9375-fb44e8eb1f3e" name="Changes" comment="" />
+      <created>1783435916658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783435916658</updated>
+      <workItem from="1783435920700" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
