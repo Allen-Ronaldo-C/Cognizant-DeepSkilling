@@ -1,15 +1,5 @@
 <div class="home">
 
-  <h2>Welcome {{ studentName }}</h2>
-
-  <p>College: {{ college }}</p>
-
-  <p>Department: {{ department }}</p>
-
-  <p>Year: {{ year }}</p>
-  
-  <br><br>
-
 <img [src]="imageUrl" width="150">
 
 <br><br>
@@ -56,7 +46,9 @@ placeholder="Enter your name">
       {{ i + 1 }}. {{ course }}
     </li>
   </ul>
-  <hr>
+</div>
+
+<hr>
 
 <h2>ngClass Demo</h2>
 
@@ -67,4 +59,57 @@ placeholder="Enter your name">
 <button (click)="isPlaced = !isPlaced">
     Toggle Status
 </button>
+
+<hr>
+
+<h2>ngStyle Demo</h2>
+
+<p
+[ngStyle]="{
+'color': isPlaced ? 'green':'red',
+'font-size':'22px',
+'font-weight':'bold'
+}">
+
+Dynamic Style Example
+
+</p>
+
+<hr>
+
+<h2>Pipes Demo</h2>
+
+<p>{{student.name | uppercase}}</p>
+
+<p>{{student.department | lowercase}}</p>
+
+<p>{{today | date}}</p>
+
+<p>{{today | date:'fullDate'}}</p>
+
+<p>{{price | currency:'INR'}}</p>
+
+<p>{{student | json}}</p>
+
+<hr>
+
+<h2>Service Demo</h2>
+
+<p>{{serviceStudent}}</p>
+
+<hr>
+
+<h2>Template Form</h2>
+
+<form>
+  <input
+  type="text"
+  name="student"
+  [(ngModel)]="enteredName">
+
+  <button>
+  Submit
+  </button>
+</form>
+
 </div>

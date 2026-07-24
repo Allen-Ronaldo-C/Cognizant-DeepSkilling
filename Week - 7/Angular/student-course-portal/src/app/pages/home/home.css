@@ -29,12 +29,14 @@ button:hover{
 .course-list ul {
     padding-left: 20px;
 }
-.placed {
-    color: green;
-    font-weight: bold;
+.placed{
+    color:green;
+    font-size:22px;
+    font-weight:bold;
 }
 
-.notPlaced {
-    color: red;
-    font-weight: bold;
+.notPlaced{
+    color:red;
+    font-size:22px;
+    font-weight:bold;
 }
