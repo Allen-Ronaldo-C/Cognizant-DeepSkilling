@@ -1,0 +1,40 @@
+.home{
+    text-align:center;
+    padding:60px;
+}
+
+.home h2{
+    color:#1976d2;
+}
+
+button{
+    margin-top:20px;
+    padding:10px 25px;
+    background:#1976d2;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#1259a7;
+}
+.course-list {
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.course-list ul {
+    padding-left: 20px;
+}
+.placed {
+    color: green;
+    font-weight: bold;
+}
+
+.notPlaced {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,70 @@
+<div class="home">
+
+  <h2>Welcome {{ studentName }}</h2>
+
+  <p>College: {{ college }}</p>
+
+  <p>Department: {{ department }}</p>
+
+  <p>Year: {{ year }}</p>
+  
+  <br><br>
+
+<img [src]="imageUrl" width="150">
+
+<br><br>
+
+<button
+    [disabled]="isDisabled"
+    (click)="registerCourse()">
+
+    {{ buttonText }}
+
+</button>
+<hr>
+
+<h2>Two-Way Data Binding Demo</h2>
+
+<input
+type="text"
+[(ngModel)]="enteredName"
+placeholder="Enter your name">
+
+<p>You entered: {{enteredName}}</p>
+<hr>
+
+<h2>*ngIf Demo</h2>
+
+<button (click)="isPlaced = !isPlaced">
+    Toggle Placement Status
+</button>
+
+<p *ngIf="isPlaced">
+    🎉 Congratulations! You are placed.
+</p>
+
+<p *ngIf="!isPlaced">
+    😔 Keep practicing. Placement is pending.
+</p>
+<hr>
+
+<h2>*ngFor Demo</h2>
+
+<div class="course-list">
+  <ul>
+    <li *ngFor="let course of courses; let i = index">
+      {{ i + 1 }}. {{ course }}
+    </li>
+  </ul>
+  <hr>
+
+<h2>ngClass Demo</h2>
+
+<p [ngClass]="isPlaced ? 'placed' : 'notPlaced'">
+    {{ isPlaced ? '🎉 Student Placed' : '❌ Student Not Placed' }}
+</p>
+
+<button (click)="isPlaced = !isPlaced">
+    Toggle Status
+</button>
+</div>
