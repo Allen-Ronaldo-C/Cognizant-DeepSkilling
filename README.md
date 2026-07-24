@@ -95,13 +95,11 @@ Cognizant-Digital-Nurture
 - SLF4J
 
 ### Tools & IDEs
-- Eclipse IDE
 - Visual Studio Code
 - IntelliJ IDEA
 - Maven
 - Git
 - GitHub
-- Postman
 - Angular CLI
 - Node.js
 
