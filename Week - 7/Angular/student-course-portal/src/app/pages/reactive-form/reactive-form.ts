@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
-import { ReactiveFormsModule, FormGroup, FormControl } from '@angular/forms';
+import {
+  ReactiveFormsModule,
+  FormGroup,
+  FormControl
+} from '@angular/forms';
 
 @Component({
   selector: 'app-reactive-form',
@@ -12,7 +16,12 @@ export class ReactiveForm {
 
   profileForm = new FormGroup({
     name: new FormControl(''),
-    department: new FormControl('')
+    department: new FormControl(''),
+    college: new FormControl('')
   });
+
+  submit() {
+    console.log(this.profileForm.value);
+  }
 
 }

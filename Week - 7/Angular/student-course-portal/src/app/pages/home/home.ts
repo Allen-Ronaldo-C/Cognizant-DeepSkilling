@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { StudentService } from '../../services/student';
+import { ApiService } from '../../services/api.service';
 
 @Component({
   selector: 'app-home',
@@ -41,11 +42,19 @@ export class Home implements OnInit {
   };
 
   serviceStudent = '';
+  users: any;
 
-  constructor(private studentService: StudentService) {}
+  constructor(
+    private studentService: StudentService,
+    private api: ApiService
+  ) {}
 
   ngOnInit() {
     this.serviceStudent = this.studentService.getStudentName();
+
+    this.api.getUsers().subscribe(data => {
+      this.users = data;
+    });
   }
 
   registerCourse() {
