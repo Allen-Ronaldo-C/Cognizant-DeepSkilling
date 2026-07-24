@@ -1,65 +1,65 @@
 # 🚀 Cognizant Digital Nurture Program
 
-This repository contains all hands-on exercises, assignments, and projects completed as part of the **Cognizant Digital Nurture Program**. The program covers software engineering fundamentals, Java Full Stack development, databases, Spring Framework, Angular, React, and Microservices.
+> A comprehensive collection of hands-on exercises, assignments, and projects completed as part of the **Cognizant Digital Nurture Program**, covering Java Full Stack Development, Spring Framework, Angular, React, Databases, and Microservices.
 
 ---
 
-## 📅 Program Overview
+## 📌 Program Modules
 
 | Week | Module | Status |
-|------|--------|--------|
-| Week 1 | Design Principles & Patterns | ✅ Completed |
-| Week 1 | Data Structures & Algorithms | ✅ Completed |
-| Week 2 | PL/SQL | ✅ Completed |
-| Week 2 | SLF4J Logging | ✅ Completed |
-| Week 2 | JUnit 5 | ✅ Completed |
-| Week 2 | Mockito | ✅ Completed |
-| Week 3 | Spring Core | ✅ Completed |
-| Week 3 | Spring Data JPA | ✅ Completed |
-| Week 4 | Angular | ✅ Completed |
-| Week 5 | Microservices | ✅ Completed |
-| Week 6 | React | ✅ Completed |
-| Week 7 | Advanced React | ✅ Completed |
+|------|--------|:------:|
+| Week 1 | Design Principles & Patterns | ✅ |
+| Week 1 | Data Structures & Algorithms | ✅ |
+| Week 2 | PL/SQL | ✅ |
+| Week 2 | SLF4J Logging | ✅ |
+| Week 2 | JUnit 5 | ✅ |
+| Week 2 | Mockito | ✅ |
+| Week 3 | Spring Core | ✅ |
+| Week 3 | Spring Data JPA | ✅ |
+| Week 4 | Angular | ✅ |
+| Week 5 | Microservices | ✅ |
+| Week 6 | React | ✅ |
+| Week 7 | Advanced React | ✅ |
 
 ---
 
 # 📂 Repository Structure
 
 ```
-Cognizant-Digital-Nurture/
+Cognizant-Digital-Nurture
 │
-├── Week-1/
-│   ├── Design Principles & Patterns/
-│   └── Data Structures & Algorithms/
+├── Week-1
+│   ├── Design Principles & Patterns
+│   └── Data Structures & Algorithms
 │
-├── Week-2/
-│   ├── PLSQL/
-│   ├── SLF4J/
-│   ├── JUnit/
-│   └── Mockito/
+├── Week-2
+│   ├── PL-SQL
+│   ├── SLF4J
+│   ├── JUnit
+│   └── Mockito
 │
-├── Week-3/
-│   ├── Spring Core/
-│   └── Spring Data JPA/
+├── Week-3
+│   ├── Spring Core
+│   └── Spring Data JPA
 │
-├── Week-4/
-│   └── Angular/
+├── Week-4
+│   └── Angular
 │
-├── Week-5/
-│   └── Microservices/
+├── Week-5
+│   └── Microservices
 │
-├── Week-6/
-│   └── React/
+├── Week-6
+│   └── React
 │
-├── Week-7/
-│   └── Advanced React/
+├── Week-7
+│   └── Advanced React
 │
 └── README.md
 ```
 
 ---
 
-# 🛠 Technologies Covered
+# 🛠️ Technologies Used
 
 ### Programming Languages
 - Java
@@ -67,8 +67,8 @@ Cognizant-Digital-Nurture/
 - PL/SQL
 - TypeScript
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ### Backend
 - Spring Core
@@ -82,6 +82,11 @@ Cognizant-Digital-Nurture/
 - React
 - Advanced React
 
+### Database
+- Oracle SQL
+- PL/SQL
+- MySQL
+
 ### Testing
 - JUnit 5
 - Mockito
@@ -89,28 +94,24 @@ Cognizant-Digital-Nurture/
 ### Logging
 - SLF4J
 
-### Database
-- MySQL
-- Oracle SQL
-- PL/SQL
-
-### Development Tools
+### Tools & IDEs
 - Eclipse IDE
-- IntelliJ IDEA
 - Visual Studio Code
+- IntelliJ IDEA
 - Maven
 - Git
 - GitHub
 - Postman
-- Node.js
 - Angular CLI
+- Node.js
 
 ---
 
-# 📖 Modules Covered
+# 📖 Topics Covered
 
-## ✅ Week 1 – Design Principles & Patterns
+## 📌 Week 1 – Design Principles & Data Structures
 
+### Design Principles & Patterns
 - SOLID Principles
 - Factory Pattern
 - Singleton Pattern
@@ -119,7 +120,6 @@ Cognizant-Digital-Nurture/
 - Observer Pattern
 
 ### Data Structures & Algorithms
-
 - Arrays
 - Strings
 - Linked Lists
@@ -131,50 +131,44 @@ Cognizant-Digital-Nurture/
 
 ---
 
-## ✅ Week 2 – Database & Testing
+## 📌 Week 2 – Database & Testing
 
 ### PL/SQL
-
 - Procedures
 - Functions
 - Triggers
-- Cursors
 - Packages
+- Cursors
 - Exception Handling
 
 ### SLF4J
-
-- Logging Levels
+- Logging
 - Logger
 - LoggerFactory
 
 ### JUnit
-
 - Unit Testing
 - Assertions
 - Test Lifecycle
 
 ### Mockito
-
 - Mock Objects
 - Stubbing
 - Verification
-- Dependency Mocking
+- Dependency Injection Testing
 
 ---
 
-## ✅ Week 3 – Spring Framework
+## 📌 Week 3 – Spring Framework
 
 ### Spring Core
-
-- Dependency Injection
 - IoC Container
+- Dependency Injection
 - Bean Configuration
 - XML Configuration
-- Annotation-Based Configuration
+- Annotation Configuration
 
 ### Spring Data JPA
-
 - Entity Mapping
 - CRUD Repository
 - Query Methods
@@ -183,35 +177,36 @@ Cognizant-Digital-Nurture/
 
 ---
 
-## ✅ Week 4 – Angular
+## 📌 Week 4 – Angular
 
 - Standalone Components
+- Routing
+- Components
 - Data Binding
 - Directives
-- Routing
-- Forms
+- Pipes
 - Services
+- Template-Driven Forms
+- Reactive Forms
 - HTTP Client
-- RxJS
 - Angular CLI
 
 ---
 
-## ✅ Week 5 – Microservices
+## 📌 Week 5 – Microservices
 
 - Spring Boot Microservices
 - REST APIs
-- Service Communication
 - API Gateway
 - Service Discovery
 - Configuration Management
 
 ---
 
-## ✅ Week 6 – React
+## 📌 Week 6 – React
 
 - JSX
-- Components
+- Functional Components
 - Props
 - State
 - Hooks
@@ -220,7 +215,7 @@ Cognizant-Digital-Nurture/
 
 ---
 
-## ✅ Week 7 – Advanced React
+## 📌 Week 7 – Advanced React
 
 - Context API
 - Redux Basics
@@ -230,44 +225,51 @@ Cognizant-Digital-Nurture/
 
 ---
 
-# 🚀 How to Run
+# 🎯 Learning Outcomes
 
-Clone the repository
+Through this program, I gained practical experience in:
+
+- Object-Oriented Programming
+- Java Full Stack Development
+- Spring Framework
+- RESTful API Development
+- Angular Development
+- React Development
+- Database Programming
+- Microservices Architecture
+- Unit Testing
+- Version Control using Git & GitHub
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Cognizant-Digital-Nurture.git
+git clone https://github.com/<your-github-username>/Cognizant-Digital-Nurture.git
 ```
 
-Navigate to the repository
+Navigate to the project:
 
 ```bash
 cd Cognizant-Digital-Nurture
 ```
 
-Each week's exercises contain their own setup instructions depending on the technology used.
+Each week's folder contains individual exercises and projects with their respective source code.
 
 ---
 
-# 🎯 Learning Outcomes
+# 📸 Project Highlights
 
-This program helped strengthen knowledge in:
-
-- Object-Oriented Programming
-- Design Principles
-- Java Development
-- Spring Framework
-- Database Programming
-- Frontend Development
-- RESTful APIs
-- Microservices Architecture
-- Unit Testing
-- Version Control with Git
-
----
-
-# 📸 Screenshots
-
-You can add screenshots of each week's projects inside their respective folders for better documentation.
+- ✅ Java Design Pattern Implementations
+- ✅ Spring Core Applications
+- ✅ Spring Data JPA CRUD Operations
+- ✅ Angular Student Course Portal
+- ✅ React Applications
+- ✅ Microservices Implementation
+- ✅ Database Programming with PL/SQL
+- ✅ Unit Testing using JUnit & Mockito
 
 ---
 
@@ -275,26 +277,20 @@ You can add screenshots of each week's projects inside their respective folders 
 
 **Allen Ronaldo C**
 
-B.E. Electronics and Communication Engineering
+Electronics and Communication Engineering
 
 R.M.K. College of Engineering and Technology
 
----
+GitHub: https://github.com/<your-github-username>
 
-# 📚 Program
-
-**Cognizant Digital Nurture Program**
-
-Java Full Stack Learning Program
+LinkedIn: https://www.linkedin.com/in/<your-linkedin-profile>
 
 ---
 
-# ⭐ Acknowledgements
+# 🙏 Acknowledgement
 
-Special thanks to **Cognizant** for providing the Digital Nurture learning program and hands-on exercises that strengthened practical software development skills.
+This repository contains the work completed as part of the **Cognizant Digital Nurture Program**, helping strengthen practical knowledge in Java Full Stack Development and modern software engineering practices.
 
 ---
 
-## 📄 License
-
-This repository is intended for educational purposes only.
+## ⭐ If you found this repository useful, consider giving it a star!
